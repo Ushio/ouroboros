@@ -1,0 +1,6 @@
+[
+  {"delay" : 5.0},
+  {"run" : "/Applications/Atom.app", "top" : true},
+  {"delay" : 10.0},
+  {"run" : "/Applications/CotEditor.app", "top" : false}
+]
